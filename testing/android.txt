@@ -1,0 +1,3 @@
+title=lex
+author=ganesh
+orientation=portrait
